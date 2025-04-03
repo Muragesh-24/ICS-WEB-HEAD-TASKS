@@ -1,0 +1,110 @@
+/* General Styling */
+body {
+    font-family: "Poppins", sans-serif;
+    background: var(--bg-color);
+    color: var(--text-color);
+    transition: all 0.3s ease-in-out;
+  }
+  
+  /* Dark Mode Variables */
+  :root {
+    --bg-color: #f8f9fa;
+    --card-bg: #ffffff;
+    --text-color: #333;
+  }
+  
+  .dark {
+    --bg-color: #121212;
+    --card-bg: #1e1e1e;
+    --text-color: #f1f1f1;
+  }
+  
+  /* Course Container */
+  .course-container.light {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 2rem;
+    text-align: center;
+    background: var(--bg-color);
+    min-height: 65vh;
+    color: black; /* Adjust text color for light mode */
+}
+
+.course-container.dark {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 2rem;
+    text-align: center;
+    background: #121212; /* Dark background */
+    min-height: 65vh;
+    color: white; /* Adjust text color for dark mode */
+}
+
+  
+  /* Header */
+  .header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 1.5rem;
+  }
+  
+  /* Dark Mode Toggle Button */
+  .dark-mode-toggle {
+    padding: 0.6rem 1.2rem;
+    font-size: 1rem;
+    border: none;
+    background: #007bff;
+    color: white;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: 0.3s;
+  }
+  
+  .dark-mode-toggle:hover {
+    background: #0056b3;
+  }
+  
+  /* Course Sections Grid */
+  .course-sections {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 1.5rem;
+    margin-top: 1rem;
+  }
+  
+  /* Course Card Styling */
+  .course-card {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: var(--card-bg);
+    padding: 1.2rem;
+    border-radius: 10px;
+    font-size: 1.1rem;
+    font-weight: 600;
+    color: var(--text-color);
+    text-decoration: none;
+    transition: transform 0.2s ease-in-out, box-shadow 0.3s;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  }
+  
+  .course-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15);
+    background: #007bff;
+    color: #fff;
+  }
+  
+  /* Disabled Card (Upcoming Feature) */
+  .course-card.disabled {
+    background: #ddd;
+    color: #666;
+    cursor: not-allowed;
+    box-shadow: none;
+  }
+  
+  .course-card.disabled:hover {
+    transform: none;
+  }
+  
