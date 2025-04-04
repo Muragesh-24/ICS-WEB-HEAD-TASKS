@@ -12,7 +12,6 @@ This is a central resource-sharing platform built for the incoming Y25 batch at 
 
 - Notes
 - Important links
-- Tips for academic & non-academic life at IITK
 - Responsive and clean UI
 
 📂 You can find the detailed README inside the `Project1/` folder.
@@ -38,7 +37,8 @@ This is a full-stack counseling service platform designed for IIT Kanpur student
 
 ## 💡 Note from the Developer
 
-I completed these tasks while recovering from an injury (with a pop bandage on my hand), but gave my best effort to build functional, user-friendly projects in line with ICS standards.
+I completed these tasks while recovering from an injury (with a pop bandage on my hand). Due to time constraints, I used a few templates and AI tools for repetitive tasks, but ensured every element aligns with the core objectives and standards expected by ICS. I focused on building functional, user-friendly projects that reflect my commitment and design thinking.
+
 
 ---
 
