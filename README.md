@@ -8,11 +8,6 @@ This repository contains two web development projects created as part of the **I
 
 🔗 **Live Site:** [iitkresourceshubfory25.vercel.app](https://iitkresourceshubfory25.vercel.app)
 
-This is a central resource-sharing platform built for the incoming Y25 batch at IIT Kanpur. It includes:
-
-- Notes
-- Important links
-- Responsive and clean UI
 
 📂 You can find the detailed README inside the `Project1/` folder.
 
@@ -22,14 +17,8 @@ This is a central resource-sharing platform built for the incoming Y25 batch at 
 
 🎥 **Demo Video:** [Watch here](https://youtu.be/kt4IS096BZg?si=7bxhBAwKrc4NSCbk)
 
-This is a full-stack counseling service platform designed for IIT Kanpur students. It includes:
-
-- Hero section & service cards
-- Articles and event info (hardcoded for now)
-- Functional feedback form (backend using MongoDB)
-- Clean, responsive layout
-
-🛠️ Note: Hosting of Project 2 is still pending due to time and health constraints.
+This is a full-stack counseling service platform designed 
+note: Hosting of Project 2 is still pending due to time and health constraints.
 
 📂 You can find the detailed README inside the `Project2/` folder.
 
