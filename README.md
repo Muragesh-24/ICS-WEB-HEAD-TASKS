@@ -4,7 +4,7 @@ This repository contains two web development projects created as part of the **I
 
 ---
 
-## 🚀 Project 1 – IITK Resources Hub (for Y25)
+## 🚀 Project 1 – IITK Resources Hub 
 
 🔗 **Live Site:** [iitkresourceshubfory25.vercel.app](https://iitkresourceshubfory25.vercel.app)
 
