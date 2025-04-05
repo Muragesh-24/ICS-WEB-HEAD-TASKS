@@ -24,7 +24,7 @@ note: Hosting of Project 2 is still pending due to time and health constraints.
 
 ---
 
-## 💡 Note from the Developer
+## 💡 Note
 
 I completed these tasks while recovering from an injury (with a pop bandage on my hand). Due to time constraints, I used a few templates and AI tools for repetitive tasks, but ensured every element aligns with the core objectives and standards expected by ICS. I focused on building functional, user-friendly projects that reflect my commitment and design thinking.
 
